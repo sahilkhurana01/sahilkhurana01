@@ -25,7 +25,7 @@
 <li><a target="_blank" href="https://github.com/sahilkhurana01/Webpage-clg-project-php-xammp.git">Webpage-clg-project-php-xammp</a></li>
 <li><a target="_blank" href="https://github.com/sahilkhurana01/Departmental-Store-c.git">Departmental-Store-c</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/ur01sahil" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
+<p><a target="_blank" href="https://twitter.com/ur01sahil" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sahil-khurana-09450822b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkhurana01&show_icons=true&locale=en" alt="sahilkhurana01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhurana01&" alt="sahilkhurana01" /></p>
